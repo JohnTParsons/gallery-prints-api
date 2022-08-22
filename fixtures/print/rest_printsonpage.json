@@ -1,0 +1,1780 @@
+{
+  "info":{
+    "totalrecordsperquery":10,
+    "totalrecords":68777,
+    "pages":6878,
+    "page":1,
+    "next":"https://api.harvardartmuseums.org/object?apikey=c28e4be0-4c0e-11ea-90d6-25d9a9fe80fc&classification=Prints&size=10&page=2"
+  },
+  "records":[
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"European and American Art",
+      "markscount":1,
+      "publicationcount":0,
+      "totaluniquepageviews":25,
+      "contact":"am_europeanamerican@harvard.edu",
+      "colorcount":8,
+      "rank":236006,
+      "state":"i/ii",
+      "id":76497,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2006-05-10",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":175230,
+          "idsid":18822221,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"INV044654",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/18822221",
+          "height":777
+        },
+        {
+          "date":"2013-02-14",
+          "copyright":null,
+          "imageid":425763,
+          "idsid":45618277,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"STR011652",
+          "displayorder":2,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:huam:STR011652_dynmc",
+          "alttext":null,
+          "width":835,
+          "publiccaption":"beta-radiograph of watermark",
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/45618277",
+          "height":1024
+        },
+        {
+          "date":"2013-02-14",
+          "copyright":null,
+          "imageid":425765,
+          "idsid":483660195,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"STR011654",
+          "displayorder":3,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:STR011654",
+          "alttext":null,
+          "width":827,
+          "publiccaption":"beta-radiograph of watermark",
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/483660195",
+          "height":1024
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":3,
+      "totalpageviews":35,
+      "accessionyear":2003,
+      "standardreferencenumber":"Nagler 6",
+      "signed":null,
+      "classification":"Prints",
+      "relatedcount":0,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc",
+      "titlescount":2,
+      "peoplecount":2,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:02-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Etching",
+      "edition":null,
+      "description":null,
+      "medium":"Etching with graphite additions as proposed state changes",
+      "lendingpermissionlevel":0,
+      "title":"The Drawing School of Francesco Rosapina by Lamplight",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#c8c8af",
+          "spectrum":"#b55592",
+          "hue":"Green",
+          "percent":0.2336283185840708,
+          "css3":"#c0c0c0"
+        },
+        {
+          "color":"#96967d",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.19634218289085545,
+          "css3":"#808080"
+        },
+        {
+          "color":"#321919",
+          "spectrum":"#3db657",
+          "hue":"Brown",
+          "percent":0.1448377581120944,
+          "css3":"#000000"
+        },
+        {
+          "color":"#af9696",
+          "spectrum":"#ae5596",
+          "hue":"Brown",
+          "percent":0.13498525073746312,
+          "css3":"#bc8f8f"
+        },
+        {
+          "color":"#7d6464",
+          "spectrum":"#8e5ea7",
+          "hue":"Brown",
+          "percent":0.11026548672566372,
+          "css3":"#696969"
+        },
+        {
+          "color":"#644b4b",
+          "spectrum":"#8362aa",
+          "hue":"Brown",
+          "percent":0.0759882005899705,
+          "css3":"#696969"
+        },
+        {
+          "color":"#4b3232",
+          "spectrum":"#4ab851",
+          "hue":"Red",
+          "percent":0.07362831858407079,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#e1c8c8",
+          "spectrum":"#c15689",
+          "hue":"Orange",
+          "percent":0.03032448377581121,
+          "css3":"#d8bfd8"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1811",
+      "department":"Department of Prints",
+      "dateend":1811,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":null,
+          "gender":"unknown",
+          "displaydate":"1780 - 1841",
+          "prefix":null,
+          "culture":"Italian",
+          "displayname":"Giulio Tomba",
+          "alphasort":"Tomba, Giulio",
+          "name":"Giulio Tomba",
+          "personid":33224,
+          "deathplace":null,
+          "displayorder":1
+        },
+        {
+          "role":"Artist after",
+          "birthplace":"San Sebastiano Curone, Italy",
+          "gender":"unknown",
+          "displaydate":"1758 - 1823",
+          "prefix":"After",
+          "culture":"Italian",
+          "displayname":"After Felice Giani",
+          "alphasort":"Giani, Felice",
+          "name":"Felice Giani",
+          "personid":22175,
+          "deathplace":"Rome, Italy",
+          "displayorder":2
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/76497",
+      "dateoffirstpageview":"2012-01-09",
+      "century":"19th century",
+      "objectnumber":"M25869",
+      "labeltext":null,
+      "datebegin":1811,
+      "culture":"Italian",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":76497,
+      "techniqueid":116,
+      "dimensions":"plate: 32.6 x 43.1 cm (12 13/16 x 16 15/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/76497",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":"© Ed Ruscha",
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Margaret Fisher Fund",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"Modern and Contemporary Art",
+      "markscount":2,
+      "publicationcount":0,
+      "totaluniquepageviews":15,
+      "contact":"am_moderncontemporary@harvard.edu",
+      "colorcount":9,
+      "rank":236028,
+      "state":null,
+      "id":76522,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2006-05-10",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":171284,
+          "idsid":18825732,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"INV048179",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/18825732",
+          "height":825
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":17,
+      "accessionyear":2003,
+      "standardreferencenumber":"S. & P. 45",
+      "signed":"E. R.",
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc",
+      "titlescount":2,
+      "peoplecount":1,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:02-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Lithograph",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"Twentysix Gasoline Stations",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.7493888888888889,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#c8c8c8",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.05422222222222222,
+          "css3":"#c0c0c0"
+        },
+        {
+          "color":"#afafaf",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.043666666666666666,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.042333333333333334,
+          "css3":"#696969"
+        },
+        {
+          "color":"#7d7d7d",
+          "spectrum":"#8362aa",
+          "hue":"Grey",
+          "percent":0.041833333333333333,
+          "css3":"#808080"
+        },
+        {
+          "color":"#969696",
+          "spectrum":"#8761aa",
+          "hue":"Grey",
+          "percent":0.0405,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.02022222222222222,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#e1af96",
+          "spectrum":"#e9715f",
+          "hue":"Orange",
+          "percent":0.005833333333333334,
+          "css3":"#deb887"
+        },
+        {
+          "color":"#e17d4b",
+          "spectrum":"#f17c4f",
+          "hue":"Orange",
+          "percent":0.002,
+          "css3":"#cd853f"
+        }
+      ],
+      "provenance":"[Barbara Krakow Gallery, Boston, Massachusetts], sold; to Harvard University Art Museums, December 9, 2003.",
+      "groupcount":0,
+      "dated":"1970",
+      "department":"Department of Prints",
+      "dateend":1970,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Omaha, NE",
+          "gender":"male",
+          "displaydate":"born 1937",
+          "prefix":null,
+          "culture":"American",
+          "displayname":"Edward Ruscha",
+          "alphasort":"Ruscha, Edward",
+          "name":"Edward Ruscha",
+          "personid":28417,
+          "deathplace":null,
+          "displayorder":1
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/76522",
+      "dateoffirstpageview":"2011-05-25",
+      "century":"20th century",
+      "objectnumber":"M25890",
+      "labeltext":null,
+      "datebegin":1970,
+      "culture":"American",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":76522,
+      "techniqueid":136,
+      "dimensions":"design: 21.4 x 28.9 cm (8 7/16 x 11 3/8 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/76522",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Arthur M. Sackler Museum, Gift of Mrs. Henry Osborn Taylor",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-05-29",
+      "classificationid":23,
+      "division":"Asian and Mediterranean Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":204,
+      "contact":"am_asianmediterranean@harvard.edu",
+      "colorcount":10,
+      "rank":54215,
+      "state":null,
+      "id":76963,
+      "verificationleveldescription":"Unchecked. Object information has not been verified for completeness and has not been vetted",
+      "period":"Edo period, 1615-1868",
+      "images":[
+        {
+          "date":"2003-12-08",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":32178,
+          "idsid":18720205,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"CARP06289",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/18720205",
+          "height":487
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":246,
+      "accessionyear":1928,
+      "standardreferencenumber":null,
+      "signed":"Toyokuni ga (in fan)",
+      "classification":"Prints",
+      "relatedcount":3,
+      "verificationlevel":0,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc",
+      "titlescount":2,
+      "peoplecount":1,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":248,
+      "technique":null,
+      "edition":null,
+      "description":null,
+      "medium":"Ukiyo-e woodblock-printed \"ōban\" triptych; ink and color on paper",
+      "lendingpermissionlevel":0,
+      "title":"Triptych: Seven Gods of Good Fortune (Shichifukujin) Playing Music and Dancing in the Ship of Treasures (Takarabune)",
+      "accessionmethod":"Gift",
+      "colors":[
+        {
+          "color":"#c8af96",
+          "spectrum":"#e66c64",
+          "hue":"Brown",
+          "percent":0.19924882629107982,
+          "css3":"#d2b48c"
+        },
+        {
+          "color":"#af967d",
+          "spectrum":"#c25687",
+          "hue":"Brown",
+          "percent":0.19408450704225352,
+          "css3":"#bc8f8f"
+        },
+        {
+          "color":"#7d7d64",
+          "spectrum":"#6cbd45",
+          "hue":"Yellow",
+          "percent":0.15126760563380282,
+          "css3":"#808080"
+        },
+        {
+          "color":"#e1c8af",
+          "spectrum":"#e9715f",
+          "hue":"Orange",
+          "percent":0.14591549295774647,
+          "css3":"#f5deb3"
+        },
+        {
+          "color":"#964b32",
+          "spectrum":"#d0577c",
+          "hue":"Orange",
+          "percent":0.10140845070422536,
+          "css3":"#a0522d"
+        },
+        {
+          "color":"#64644b",
+          "spectrum":"#59ba4a",
+          "hue":"Green",
+          "percent":0.08384976525821597,
+          "css3":"#696969"
+        },
+        {
+          "color":"#fafafa",
+          "spectrum":"#955ba5",
+          "hue":"White",
+          "percent":0.03943661971830986,
+          "css3":"#fffafa"
+        },
+        {
+          "color":"#e1e1c8",
+          "spectrum":"#e9715f",
+          "hue":"Green",
+          "percent":0.0384037558685446,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#4b4b32",
+          "spectrum":"#4ab851",
+          "hue":"Green",
+          "percent":0.03352112676056338,
+          "css3":"#556b2f"
+        },
+        {
+          "color":"#323232",
+          "spectrum":"#2eb45d",
+          "hue":"Grey",
+          "percent":0.012769953051643192,
+          "css3":"#2f4f4f"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":null,
+      "department":"Department of Asian Art",
+      "dateend":0,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1769 - 1825",
+          "prefix":null,
+          "culture":"Japanese",
+          "displayname":"Utagawa Toyokuni 歌川豊国",
+          "alphasort":"Utagawa, Toyokuni",
+          "name":"Utagawa Toyokuni 歌川豊国",
+          "personid":29076,
+          "deathplace":null,
+          "displayorder":1
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/76963",
+      "dateoffirstpageview":"2009-08-29",
+      "century":null,
+      "objectnumber":"1928.14.103.-105",
+      "labeltext":null,
+      "datebegin":0,
+      "culture":"Japanese",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":76963,
+      "techniqueid":null,
+      "dimensions":"overall for matted triptych: H. 37.4 x W. 77 cm (14 3/4 x 30 5/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/76963",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Arthur M. Sackler Museum, Gift of the Friends of Arthur B. Duel",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"Asian and Mediterranean Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":30,
+      "contact":"am_asianmediterranean@harvard.edu",
+      "colorcount":10,
+      "rank":57490,
+      "state":null,
+      "id":77248,
+      "verificationleveldescription":"Unchecked. Object information has not been verified for completeness and has not been vetted",
+      "period":"Edo period, 1615-1868",
+      "images":[
+        {
+          "date":"2003-12-16",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":46445,
+          "idsid":18720284,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"CARP06376",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/18720284",
+          "height":713
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":39,
+      "accessionyear":1933,
+      "standardreferencenumber":null,
+      "signed":null,
+      "classification":"Prints",
+      "relatedcount":2,
+      "verificationlevel":0,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc",
+      "titlescount":2,
+      "peoplecount":1,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":248,
+      "technique":null,
+      "edition":null,
+      "description":null,
+      "medium":"Two-thirds of an ukiyo-e woodblock-printed \"oban\" triptych(?); ink and color on paper",
+      "lendingpermissionlevel":0,
+      "title":"Triptych: Actors as the Sixteen Arhats (Mitate: Jūroku Rakan)",
+      "accessionmethod":"Gift",
+      "colors":[
+        {
+          "color":"#e1c8af",
+          "spectrum":"#e9715f",
+          "hue":"Orange",
+          "percent":0.2594230769230769,
+          "css3":"#f5deb3"
+        },
+        {
+          "color":"#326464",
+          "spectrum":"#24b362",
+          "hue":"Blue",
+          "percent":0.1498076923076923,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#324b4b",
+          "spectrum":"#2eb45d",
+          "hue":"Grey",
+          "percent":0.10480769230769231,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#96967d",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.08205128205128205,
+          "css3":"#808080"
+        },
+        {
+          "color":"#193232",
+          "spectrum":"#1eb264",
+          "hue":"Green",
+          "percent":0.0817948717948718,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#7d4b4b",
+          "spectrum":"#b25593",
+          "hue":"Red",
+          "percent":0.07,
+          "css3":"#a0522d"
+        },
+        {
+          "color":"#4b7d7d",
+          "spectrum":"#536fb5",
+          "hue":"Green",
+          "percent":0.0567948717948718,
+          "css3":"#696969"
+        },
+        {
+          "color":"#c84b32",
+          "spectrum":"#e46867",
+          "hue":"Orange",
+          "percent":0.043333333333333335,
+          "css3":"#d2691e"
+        },
+        {
+          "color":"#644b32",
+          "spectrum":"#59ba4a",
+          "hue":"Brown",
+          "percent":0.040769230769230766,
+          "css3":"#556b2f"
+        },
+        {
+          "color":"#7d7d64",
+          "spectrum":"#6cbd45",
+          "hue":"Yellow",
+          "percent":0.04038461538461539,
+          "css3":"#808080"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"Late Edo period, 19th century",
+      "department":"Department of Asian Art",
+      "dateend":1899,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1798 - 1861",
+          "prefix":null,
+          "culture":"Japanese",
+          "displayname":"Utagawa Kuniyoshi 歌川国芳",
+          "alphasort":"Utagawa, Kuniyoshi",
+          "name":"Utagawa Kuniyoshi 歌川国芳",
+          "personid":27019,
+          "deathplace":null,
+          "displayorder":1
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77248",
+      "dateoffirstpageview":"2010-02-13",
+      "century":"19th century",
+      "objectnumber":"1933.4.658.-659",
+      "labeltext":null,
+      "datebegin":1867,
+      "culture":"Japanese",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77248,
+      "techniqueid":null,
+      "dimensions":"H. 35.6 x W. 50.9 cm (14 x 20 1/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77248",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"European and American Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":9,
+      "contact":"am_europeanamerican@harvard.edu",
+      "colorcount":6,
+      "rank":267319,
+      "state":null,
+      "id":77264,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2009-01-05",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":325487,
+          "idsid":11971332,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"DDC107120",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/11971332",
+          "height":723
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":11,
+      "accessionyear":2003,
+      "standardreferencenumber":"Meyer, p. 155; H. 301-446",
+      "signed":"Melchior Küsell f.",
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc",
+      "titlescount":3,
+      "peoplecount":2,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Etching",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"Arrival in Naples at the Piazza di Spagna",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.3897777777777778,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#c8c8c8",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.2784126984126984,
+          "css3":"#c0c0c0"
+        },
+        {
+          "color":"#969696",
+          "spectrum":"#8761aa",
+          "hue":"Grey",
+          "percent":0.1676190476190476,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#afafaf",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.13244444444444445,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.021142857142857144,
+          "css3":"#696969"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.010603174603174604,
+          "css3":"#2f4f4f"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1670",
+      "department":"Department of Prints",
+      "dateend":1670,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Augsburg",
+          "gender":"male",
+          "displaydate":"1626 - 1683",
+          "prefix":null,
+          "culture":"German",
+          "displayname":"Melchior Küsel",
+          "alphasort":"Küsel, Melchior",
+          "name":"Melchior Küsel",
+          "personid":30230,
+          "deathplace":"Augsburg",
+          "displayorder":1
+        },
+        {
+          "role":"Artist after",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1607 - 1641",
+          "prefix":"After",
+          "culture":"German",
+          "displayname":"After Johann Wilhelm Baur",
+          "alphasort":"Baur, Johann Wilhelm",
+          "name":"Johann Wilhelm Baur",
+          "personid":27026,
+          "deathplace":null,
+          "displayorder":2
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77264",
+      "dateoffirstpageview":"2012-11-26",
+      "century":"17th century",
+      "objectnumber":"S11.115.1",
+      "labeltext":null,
+      "datebegin":1670,
+      "culture":"German",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77264,
+      "techniqueid":116,
+      "dimensions":"sheet: 15 x 21.5 cm (5 7/8 x 8 7/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77264",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"European and American Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":28,
+      "contact":"am_europeanamerican@harvard.edu",
+      "colorcount":8,
+      "rank":267351,
+      "state":null,
+      "id":77295,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2009-01-05",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":325520,
+          "idsid":11971365,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"DDC107153",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/11971365",
+          "height":722
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":32,
+      "accessionyear":2003,
+      "standardreferencenumber":"Meyer, p. 155; H. 301-446",
+      "signed":"Melchior Küsell fecit",
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc",
+      "titlescount":3,
+      "peoplecount":2,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Etching",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"Nonce Palace at San Francesco della Vigna in Venice",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1c8c8",
+          "spectrum":"#c15689",
+          "hue":"Orange",
+          "percent":0.3429206349206349,
+          "css3":"#d8bfd8"
+        },
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.2516825396825397,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#afaf96",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.10495238095238095,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.08526984126984127,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#96967d",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.07269841269841269,
+          "css3":"#808080"
+        },
+        {
+          "color":"#323232",
+          "spectrum":"#2eb45d",
+          "hue":"Grey",
+          "percent":0.060825396825396824,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.0433015873015873,
+          "css3":"#696969"
+        },
+        {
+          "color":"#7d7d64",
+          "spectrum":"#6cbd45",
+          "hue":"Yellow",
+          "percent":0.03834920634920635,
+          "css3":"#808080"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1670",
+      "department":"Department of Prints",
+      "dateend":1670,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Augsburg",
+          "gender":"male",
+          "displaydate":"1626 - 1683",
+          "prefix":null,
+          "culture":"German",
+          "displayname":"Melchior Küsel",
+          "alphasort":"Küsel, Melchior",
+          "name":"Melchior Küsel",
+          "personid":30230,
+          "deathplace":"Augsburg",
+          "displayorder":1
+        },
+        {
+          "role":"Artist after",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1607 - 1641",
+          "prefix":"After",
+          "culture":"German",
+          "displayname":"After Johann Wilhelm Baur",
+          "alphasort":"Baur, Johann Wilhelm",
+          "name":"Johann Wilhelm Baur",
+          "personid":27026,
+          "deathplace":null,
+          "displayorder":2
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77295",
+      "dateoffirstpageview":"2009-06-26",
+      "century":"17th century",
+      "objectnumber":"S11.127.3",
+      "labeltext":null,
+      "datebegin":1670,
+      "culture":"German",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77295,
+      "techniqueid":116,
+      "dimensions":"sheet: 15.1 x 21.7 cm (5 15/16 x 8 9/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77295",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"European and American Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":20,
+      "contact":"am_europeanamerican@harvard.edu",
+      "colorcount":5,
+      "rank":267328,
+      "state":null,
+      "id":77297,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2009-01-05",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":325496,
+          "idsid":11971341,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"DDC107129",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/11971341",
+          "height":699
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":23,
+      "accessionyear":2003,
+      "standardreferencenumber":"Meyer, p. 155; H. 301-446",
+      "signed":"Melchior Küsell fe.",
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc",
+      "titlescount":2,
+      "peoplecount":2,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Etching",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"Horse-Drawn Carriage with Well-Dressed Figures and Bathers; Fortress and Port in the Background",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.7874509803921569,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#7d7d7d",
+          "spectrum":"#8362aa",
+          "hue":"Grey",
+          "percent":0.06111111111111111,
+          "css3":"#808080"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.058954248366013075,
+          "css3":"#696969"
+        },
+        {
+          "color":"#96967d",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.056666666666666664,
+          "css3":"#808080"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.03581699346405229,
+          "css3":"#2f4f4f"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1670",
+      "department":"Department of Prints",
+      "dateend":1670,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Augsburg",
+          "gender":"male",
+          "displaydate":"1626 - 1683",
+          "prefix":null,
+          "culture":"German",
+          "displayname":"Melchior Küsel",
+          "alphasort":"Küsel, Melchior",
+          "name":"Melchior Küsel",
+          "personid":30230,
+          "deathplace":"Augsburg",
+          "displayorder":1
+        },
+        {
+          "role":"Artist after",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1607 - 1641",
+          "prefix":"After",
+          "culture":"German",
+          "displayname":"After Johann Wilhelm Baur",
+          "alphasort":"Baur, Johann Wilhelm",
+          "name":"Johann Wilhelm Baur",
+          "personid":27026,
+          "deathplace":null,
+          "displayorder":2
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77297",
+      "dateoffirstpageview":"2012-08-16",
+      "century":"17th century",
+      "objectnumber":"S11.118.1",
+      "labeltext":null,
+      "datebegin":1670,
+      "culture":"German",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77297,
+      "techniqueid":116,
+      "dimensions":"plate: 17.4 x 25.9 cm (6 7/8 x 10 3/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77297",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-02-15",
+      "classificationid":23,
+      "division":"European and American Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":9,
+      "contact":"am_europeanamerican@harvard.edu",
+      "colorcount":7,
+      "rank":267320,
+      "state":null,
+      "id":77304,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        {
+          "date":"2009-01-05",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":325488,
+          "idsid":11971333,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"DDC107121",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/11971333",
+          "height":730
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":9,
+      "accessionyear":2003,
+      "standardreferencenumber":"Meyer, p. 155; H. 301-446",
+      "signed":"Melchior Küsell f.",
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc",
+      "titlescount":3,
+      "peoplecount":2,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:03-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Etching",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"Viceroy's Arrival at the Pleasure-Garden in Naples",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.4747798742138365,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#c8c8af",
+          "spectrum":"#b55592",
+          "hue":"Green",
+          "percent":0.1820754716981132,
+          "css3":"#c0c0c0"
+        },
+        {
+          "color":"#afaf96",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.10924528301886792,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#7d7d7d",
+          "spectrum":"#8362aa",
+          "hue":"Grey",
+          "percent":0.08188679245283019,
+          "css3":"#808080"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.06327044025157233,
+          "css3":"#696969"
+        },
+        {
+          "color":"#96967d",
+          "spectrum":"#8e5ea7",
+          "hue":"Green",
+          "percent":0.05930817610062893,
+          "css3":"#808080"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.02943396226415094,
+          "css3":"#2f4f4f"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1670",
+      "department":"Department of Prints",
+      "dateend":1670,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Augsburg",
+          "gender":"male",
+          "displaydate":"1626 - 1683",
+          "prefix":null,
+          "culture":"German",
+          "displayname":"Melchior Küsel",
+          "alphasort":"Küsel, Melchior",
+          "name":"Melchior Küsel",
+          "personid":30230,
+          "deathplace":"Augsburg",
+          "displayorder":1
+        },
+        {
+          "role":"Artist after",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1607 - 1641",
+          "prefix":"After",
+          "culture":"German",
+          "displayname":"After Johann Wilhelm Baur",
+          "alphasort":"Baur, Johann Wilhelm",
+          "name":"Johann Wilhelm Baur",
+          "personid":27026,
+          "deathplace":null,
+          "displayorder":2
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77304",
+      "dateoffirstpageview":"2013-03-28",
+      "century":"17th century",
+      "objectnumber":"S11.115.2",
+      "labeltext":null,
+      "datebegin":1670,
+      "culture":"German",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77304,
+      "techniqueid":116,
+      "dimensions":"sheet: 14.8 x 21.1 cm (5 13/16 x 8 5/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77304",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Arthur M. Sackler Museum, Gift of the Friends of Arthur B. Duel",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"Asian and Mediterranean Art",
+      "markscount":0,
+      "publicationcount":0,
+      "totaluniquepageviews":44,
+      "contact":"am_asianmediterranean@harvard.edu",
+      "colorcount":10,
+      "rank":57509,
+      "state":null,
+      "id":77466,
+      "verificationleveldescription":"Unchecked. Object information has not been verified for completeness and has not been vetted",
+      "period":"Edo period, 1615-1868",
+      "images":[
+        {
+          "date":"2005-09-19",
+          "copyright":"President and Fellows of Harvard College",
+          "imageid":61827,
+          "idsid":18782970,
+          "format":"image/jpeg",
+          "description":null,
+          "technique":null,
+          "renditionnumber":"INV017572",
+          "displayorder":1,
+          "baseimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc",
+          "alttext":null,
+          "width":1024,
+          "publiccaption":null,
+          "iiifbaseuri":"https://ids.lib.harvard.edu/ids/iiif/18782970",
+          "height":509
+        }
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":48,
+      "accessionyear":1933,
+      "standardreferencenumber":null,
+      "signed":"(printed) Ichiyūsai Kuniyoshi ga",
+      "classification":"Prints",
+      "relatedcount":3,
+      "verificationlevel":0,
+      "primaryimageurl":"https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc",
+      "titlescount":2,
+      "peoplecount":1,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:04-0400",
+      "commentary":null,
+      "periodid":248,
+      "technique":null,
+      "edition":null,
+      "description":null,
+      "medium":"Right panel from an ukiyo-e woodblock-printed \"ōban\" triptych; ink and color on paper",
+      "lendingpermissionlevel":0,
+      "title":"Triptych: Nambyō Ryōji",
+      "accessionmethod":"Gift",
+      "colors":[
+        {
+          "color":"#647d7d",
+          "spectrum":"#6c6ab0",
+          "hue":"Blue",
+          "percent":0.2500900900900901,
+          "css3":"#708090"
+        },
+        {
+          "color":"#4b6464",
+          "spectrum":"#5e6db3",
+          "hue":"Blue",
+          "percent":0.12315315315315316,
+          "css3":"#696969"
+        },
+        {
+          "color":"#e1c8af",
+          "spectrum":"#e9715f",
+          "hue":"Orange",
+          "percent":0.10234234234234234,
+          "css3":"#f5deb3"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.10225225225225225,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#c8af96",
+          "spectrum":"#e66c64",
+          "hue":"Brown",
+          "percent":0.09351351351351352,
+          "css3":"#d2b48c"
+        },
+        {
+          "color":"#323232",
+          "spectrum":"#2eb45d",
+          "hue":"Grey",
+          "percent":0.08207207207207207,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#af967d",
+          "spectrum":"#c25687",
+          "hue":"Brown",
+          "percent":0.06756756756756757,
+          "css3":"#bc8f8f"
+        },
+        {
+          "color":"#7d6464",
+          "spectrum":"#8e5ea7",
+          "hue":"Brown",
+          "percent":0.06594594594594595,
+          "css3":"#696969"
+        },
+        {
+          "color":"#7d9696",
+          "spectrum":"#7069af",
+          "hue":"Green",
+          "percent":0.05612612612612613,
+          "css3":"#778899"
+        },
+        {
+          "color":"#324b64",
+          "spectrum":"#4072b8",
+          "hue":"Blue",
+          "percent":0.021981981981981983,
+          "css3":"#2f4f4f"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"Late Edo period, circa 1847-1852",
+      "department":"Department of Asian Art",
+      "dateend":1852,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":null,
+          "gender":"male",
+          "displaydate":"1798 - 1861",
+          "prefix":null,
+          "culture":"Japanese",
+          "displayname":"Utagawa Kuniyoshi 歌川国芳",
+          "alphasort":"Utagawa, Kuniyoshi",
+          "name":"Utagawa Kuniyoshi 歌川国芳",
+          "personid":27019,
+          "deathplace":null,
+          "displayorder":1
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77466",
+      "dateoffirstpageview":"2010-02-13",
+      "century":"19th century",
+      "objectnumber":"1933.4.672.-674",
+      "labeltext":null,
+      "datebegin":1847,
+      "culture":"Japanese",
+      "exhibitioncount":0,
+      "imagepermissionlevel":0,
+      "mediacount":0,
+      "objectid":77466,
+      "techniqueid":null,
+      "dimensions":"overall for matted triptych: H. 37.1 x W. 74.8 cm (14 5/8 x 29 7/16 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77466",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    },
+    {
+      "copyright":null,
+      "contextualtextcount":0,
+      "creditline":"Harvard Art Museums/Busch-Reisinger Museum, The Willy and Charlotte Reber Collection, Richard Norton Memorial Fund",
+      "accesslevel":1,
+      "dateoflastpageview":"2022-03-18",
+      "classificationid":23,
+      "division":"Modern and Contemporary Art",
+      "markscount":0,
+      "publicationcount":2,
+      "totaluniquepageviews":27,
+      "contact":"am_moderncontemporary@harvard.edu",
+      "colorcount":10,
+      "rank":116274,
+      "state":null,
+      "id":77559,
+      "verificationleveldescription":"Good. Object is well described and information is vetted",
+      "period":null,
+      "images":[
+        
+      ],
+      "worktypes":[
+        {
+          "worktypeid":"288",
+          "worktype":"print"
+        }
+      ],
+      "imagecount":1,
+      "totalpageviews":29,
+      "accessionyear":1995,
+      "standardreferencenumber":null,
+      "signed":null,
+      "classification":"Prints",
+      "relatedcount":1,
+      "verificationlevel":3,
+      "primaryimageurl":null,
+      "titlescount":3,
+      "peoplecount":1,
+      "style":null,
+      "lastupdate":"2022-08-21T05:30:04-0400",
+      "commentary":null,
+      "periodid":null,
+      "technique":"Photolithograph",
+      "edition":null,
+      "description":null,
+      "medium":null,
+      "lendingpermissionlevel":0,
+      "title":"White Torso [by Gotthard Graubner]; verso: Cushion Lichttrambulin I [by Gotthard Graubner]",
+      "accessionmethod":"Purchase",
+      "colors":[
+        {
+          "color":"#e1e1e1",
+          "spectrum":"#955ba5",
+          "hue":"Grey",
+          "percent":0.4850900900900901,
+          "css3":"#dcdcdc"
+        },
+        {
+          "color":"#fafafa",
+          "spectrum":"#955ba5",
+          "hue":"White",
+          "percent":0.12261261261261261,
+          "css3":"#fffafa"
+        },
+        {
+          "color":"#c8c8c8",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.0904954954954955,
+          "css3":"#c0c0c0"
+        },
+        {
+          "color":"#4b4b4b",
+          "spectrum":"#3db657",
+          "hue":"Grey",
+          "percent":0.06711711711711711,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#646464",
+          "spectrum":"#7866ad",
+          "hue":"Grey",
+          "percent":0.065,
+          "css3":"#696969"
+        },
+        {
+          "color":"#afafaf",
+          "spectrum":"#8c5fa8",
+          "hue":"Grey",
+          "percent":0.04779279279279279,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#969696",
+          "spectrum":"#8761aa",
+          "hue":"Grey",
+          "percent":0.04364864864864865,
+          "css3":"#a9a9a9"
+        },
+        {
+          "color":"#7d7d7d",
+          "spectrum":"#8362aa",
+          "hue":"Grey",
+          "percent":0.04279279279279279,
+          "css3":"#808080"
+        },
+        {
+          "color":"#323232",
+          "spectrum":"#2eb45d",
+          "hue":"Grey",
+          "percent":0.034684684684684684,
+          "css3":"#2f4f4f"
+        },
+        {
+          "color":"#193219",
+          "spectrum":"#2eb45d",
+          "hue":"Green",
+          "percent":0.0007657657657657658,
+          "css3":"#000000"
+        }
+      ],
+      "provenance":null,
+      "groupcount":0,
+      "dated":"1971",
+      "department":"Busch-Reisinger Museum",
+      "dateend":1971,
+      "people":[
+        {
+          "role":"Artist",
+          "birthplace":"Berlin, Germany",
+          "gender":"male",
+          "displaydate":"1930 - 1979",
+          "prefix":null,
+          "culture":"German",
+          "displayname":"Lothar Wolleh",
+          "alphasort":"Wolleh, Lothar",
+          "name":"Lothar Wolleh",
+          "personid":23385,
+          "deathplace":"London, England",
+          "displayorder":1
+        }
+      ],
+      "url":"https://www.harvardartmuseums.org/collections/object/77559",
+      "dateoffirstpageview":"2012-09-24",
+      "century":"20th century",
+      "objectnumber":"1995.239.1.18",
+      "labeltext":null,
+      "datebegin":1971,
+      "culture":"German",
+      "exhibitioncount":0,
+      "imagepermissionlevel":1,
+      "mediacount":0,
+      "objectid":77559,
+      "techniqueid":466,
+      "dimensions":"sheet: 39.8 x 40 cm (15 11/16 x 15 3/4 in.)",
+      "seeAlso":[
+        {
+          "id":"https://iiif.harvardartmuseums.org/manifests/object/77559",
+          "type":"IIIF Manifest",
+          "format":"application/json",
+          "profile":"http://iiif.io/api/presentation/2/context.json"
+        }
+      ]
+    }
+  ]
+}

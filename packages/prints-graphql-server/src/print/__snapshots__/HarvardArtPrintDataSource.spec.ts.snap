@@ -1,0 +1,226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HarvardArtPrintDataSource by default, should return prints on page 1 in descending order 1`] = `
+Object {
+  "pageinfo": Object {
+    "pagenumber": 1,
+    "totalpages": 6878,
+    "totalrecords": 68777,
+  },
+  "prints": Array [
+    Object {
+      "id": 77295,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc",
+      "rank": 267351,
+      "technique": "Etching",
+      "title": "Nonce Palace at San Francesco della Vigna in Venice",
+    },
+    Object {
+      "id": 77297,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc",
+      "rank": 267328,
+      "technique": "Etching",
+      "title": "Horse-Drawn Carriage with Well-Dressed Figures and Bathers; Fortress and Port in the Background",
+    },
+    Object {
+      "id": 77304,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc",
+      "rank": 267320,
+      "technique": "Etching",
+      "title": "Viceroy's Arrival at the Pleasure-Garden in Naples",
+    },
+    Object {
+      "id": 77264,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc",
+      "rank": 267319,
+      "technique": "Etching",
+      "title": "Arrival in Naples at the Piazza di Spagna",
+    },
+    Object {
+      "id": 76522,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc",
+      "rank": 236028,
+      "technique": "Lithograph",
+      "title": "Twentysix Gasoline Stations",
+    },
+    Object {
+      "id": 76497,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc",
+      "rank": 236006,
+      "technique": "Etching",
+      "title": "The Drawing School of Francesco Rosapina by Lamplight",
+    },
+    Object {
+      "id": 77466,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc",
+      "rank": 57509,
+      "technique": null,
+      "title": "Triptych: Nambyō Ryōji",
+    },
+    Object {
+      "id": 77248,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc",
+      "rank": 57490,
+      "technique": null,
+      "title": "Triptych: Actors as the Sixteen Arhats (Mitate: Jūroku Rakan)",
+    },
+    Object {
+      "id": 76963,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc",
+      "rank": 54215,
+      "technique": null,
+      "title": "Triptych: Seven Gods of Good Fortune (Shichifukujin) Playing Music and Dancing in the Ship of Treasures (Takarabune)",
+    },
+  ],
+}
+`;
+
+exports[`HarvardArtPrintDataSource should return prints on page 1 in ascending order when given that sortdir 1`] = `
+Object {
+  "pageinfo": Object {
+    "pagenumber": 1,
+    "totalpages": 6878,
+    "totalrecords": 68777,
+  },
+  "prints": Array [
+    Object {
+      "id": 76963,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc",
+      "rank": 54215,
+      "technique": null,
+      "title": "Triptych: Seven Gods of Good Fortune (Shichifukujin) Playing Music and Dancing in the Ship of Treasures (Takarabune)",
+    },
+    Object {
+      "id": 77248,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc",
+      "rank": 57490,
+      "technique": null,
+      "title": "Triptych: Actors as the Sixteen Arhats (Mitate: Jūroku Rakan)",
+    },
+    Object {
+      "id": 77466,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc",
+      "rank": 57509,
+      "technique": null,
+      "title": "Triptych: Nambyō Ryōji",
+    },
+    Object {
+      "id": 76497,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc",
+      "rank": 236006,
+      "technique": "Etching",
+      "title": "The Drawing School of Francesco Rosapina by Lamplight",
+    },
+    Object {
+      "id": 76522,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc",
+      "rank": 236028,
+      "technique": "Lithograph",
+      "title": "Twentysix Gasoline Stations",
+    },
+    Object {
+      "id": 77264,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc",
+      "rank": 267319,
+      "technique": "Etching",
+      "title": "Arrival in Naples at the Piazza di Spagna",
+    },
+    Object {
+      "id": 77304,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc",
+      "rank": 267320,
+      "technique": "Etching",
+      "title": "Viceroy's Arrival at the Pleasure-Garden in Naples",
+    },
+    Object {
+      "id": 77297,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc",
+      "rank": 267328,
+      "technique": "Etching",
+      "title": "Horse-Drawn Carriage with Well-Dressed Figures and Bathers; Fortress and Port in the Background",
+    },
+    Object {
+      "id": 77295,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc",
+      "rank": 267351,
+      "technique": "Etching",
+      "title": "Nonce Palace at San Francesco della Vigna in Venice",
+    },
+  ],
+}
+`;
+
+exports[`HarvardArtPrintDataSource should return prints on page 2 in ascending order when given that sortdir 1`] = `
+Object {
+  "pageinfo": Object {
+    "pagenumber": 2,
+    "totalpages": 6878,
+    "totalrecords": 68777,
+  },
+  "prints": Array [
+    Object {
+      "id": 76963,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc",
+      "rank": 54215,
+      "technique": null,
+      "title": "Triptych: Seven Gods of Good Fortune (Shichifukujin) Playing Music and Dancing in the Ship of Treasures (Takarabune)",
+    },
+    Object {
+      "id": 77248,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc",
+      "rank": 57490,
+      "technique": null,
+      "title": "Triptych: Actors as the Sixteen Arhats (Mitate: Jūroku Rakan)",
+    },
+    Object {
+      "id": 77466,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc",
+      "rank": 57509,
+      "technique": null,
+      "title": "Triptych: Nambyō Ryōji",
+    },
+    Object {
+      "id": 76497,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc",
+      "rank": 236006,
+      "technique": "Etching",
+      "title": "The Drawing School of Francesco Rosapina by Lamplight",
+    },
+    Object {
+      "id": 76522,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc",
+      "rank": 236028,
+      "technique": "Lithograph",
+      "title": "Twentysix Gasoline Stations",
+    },
+    Object {
+      "id": 77264,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc",
+      "rank": 267319,
+      "technique": "Etching",
+      "title": "Arrival in Naples at the Piazza di Spagna",
+    },
+    Object {
+      "id": 77304,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc",
+      "rank": 267320,
+      "technique": "Etching",
+      "title": "Viceroy's Arrival at the Pleasure-Garden in Naples",
+    },
+    Object {
+      "id": 77297,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc",
+      "rank": 267328,
+      "technique": "Etching",
+      "title": "Horse-Drawn Carriage with Well-Dressed Figures and Bathers; Fortress and Port in the Background",
+    },
+    Object {
+      "id": 77295,
+      "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc",
+      "rank": 267351,
+      "technique": "Etching",
+      "title": "Nonce Palace at San Francesco della Vigna in Venice",
+    },
+  ],
+}
+`;

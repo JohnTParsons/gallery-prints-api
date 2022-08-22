@@ -1,0 +1,17 @@
+{
+  "name": "prints-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "author": "John Parsons",
+  "engines": {
+    "node": ">=16.0.0 <17.0.0"
+  },
+  "devDependencies": {
+    "lerna": "4.0.0"
+  },
+  "workspaces": [
+    "packages/*"
+  ]
+}

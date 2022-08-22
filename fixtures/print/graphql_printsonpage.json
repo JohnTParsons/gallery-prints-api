@@ -1,0 +1,63 @@
+{
+  "data": {
+    "printsonpage": {
+      "pageinfo": {
+        "pagenumber": 1,
+        "totalpages": 6878,
+        "totalrecords": 68777
+      },
+      "prints": [
+        {
+          "title": "The Drawing School of Francesco Rosapina by Lamplight",
+          "technique": "Etching",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV044654_dynmc"
+        },
+        {
+          "title": "Twentysix Gasoline Stations",
+          "technique": "Lithograph",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV048179_dynmc"
+        },
+        {
+          "title": "Triptych: Seven Gods of Good Fortune (Shichifukujin) Playing Music and Dancing in the Ship of Treasures (Takarabune)",
+          "technique": null,
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06289_dynmc"
+        },
+        {
+          "title": "Triptych: Actors as the Sixteen Arhats (Mitate: Jūroku Rakan)",
+          "technique": null,
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:CARP06376_dynmc"
+        },
+        {
+          "title": "Arrival in Naples at the Piazza di Spagna",
+          "technique": "Etching",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107120_dynmc"
+        },
+        {
+          "title": "Nonce Palace at San Francesco della Vigna in Venice",
+          "technique": "Etching",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107153_dynmc"
+        },
+        {
+          "title": "Horse-Drawn Carriage with Well-Dressed Figures and Bathers; Fortress and Port in the Background",
+          "technique": "Etching",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107129_dynmc"
+        },
+        {
+          "title": "Viceroy's Arrival at the Pleasure-Garden in Naples",
+          "technique": "Etching",
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:DDC107121_dynmc"
+        },
+        {
+          "title": "Triptych: Nambyō Ryōji",
+          "technique": null,
+          "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:INV017572_dynmc"
+        },
+        {
+          "title": "White Torso [by Gotthard Graubner]; verso: Cushion Lichttrambulin I [by Gotthard Graubner]",
+          "technique": "Photolithograph",
+          "primaryimageurl": null
+        }
+      ]
+    }
+  }
+}
